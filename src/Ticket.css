@@ -1,0 +1,10 @@
+.ticket{
+    border: 3px solid rgb(30, 28, 28);
+    border-radius: 15px;
+    width: 300px;
+    align-items: center;
+    text-align: center;
+}
+.heading{
+    font-size: 2rem;
+}
